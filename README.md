@@ -7,6 +7,7 @@ This project aims to analyze and visualize sales data from Amazon using Power BI
 # Tools Used
 
 Power BI
+
 Excel
 
 # Objectives
